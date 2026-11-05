@@ -1,5 +1,5 @@
 [Unit]
-Description=COSMIC Greeter Daemon
+Description=Zinc Greeter Daemon
 
 [Service]
 Type=dbus
